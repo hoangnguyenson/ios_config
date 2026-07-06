@@ -39,7 +39,7 @@
   "native_getstarted_status": 1,
   "native_layout_status": 1,
   "inter_layout_status": 1,
-  "install_status": 1,
+  "install_status": 0,
   "time_show_ads": 6000,
   "time_reload_native": 20000
 }
