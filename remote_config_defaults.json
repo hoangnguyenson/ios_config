@@ -3,10 +3,10 @@
   "inter_t_splash_status": 0,//inter màn splash
   "time_show_native": 4000,//thời gian show native splash, hết time thì mới show inter
   "open_resume_status": 0,//open ads
-  "native_language_status": 0,//native màn ngôn ngữ
+  "native_language_status": 1,//native màn ngôn ngữ
   "inter_getstart_status": 0,//native màn policy
-  "native_intro_status": 0,//native màn intro
-  "native_intro_full_status": 0,// native full màn intro show sau màn intro số 1
+  "native_intro_status": 1,//native màn intro
+  "native_intro_full_status": 1,// native full màn intro show sau màn intro số 1
   "native_full_status": 0,//native full load sau inter hoặc openads
   "config_nativefull_ads": 30,//xử lý việc random click ads, nếu radom từ 1-100 mà < config_nativefull_ads thì coi như click vào ads, cái này chỉ xử lý 1 lần
   "native_home_collapse_status": 0,//native àn ManActivity và HomeFragment
@@ -18,8 +18,8 @@
   "inter_noti_status": 0,//không dùng
   "native_wallpaper_status": 0,//native màn wallpaper
   "native_downloading_status": 0,//native khi show dialog download wallpaper
-  "native_full_downloading_status": 0,//native full khi tắt màn download
-  "inter_unlock_status": 0,//inter xem ads khi show dialog unlock wallpaper
+  "native_full_downloading_status": 1,//native full khi tắt màn download
+  "inter_unlock_status": 1,//inter xem ads khi show dialog unlock wallpaper
   "inter_wallpaper_detail_status": 0,//inter show khi set 1 wallpaper hoặc back trở về từ màn này
   "native_controlcenter_status": 0,//không dùng
   "inter_control_status": 0,//không dùng
@@ -39,6 +39,6 @@
   "native_layout_status": 0,//banner native nằm trong màn change Layout dưới chân màn hình
   "inter_layout_status": 0,//dùng trong màn change icon và change Layout bấm Back
   "install_status": 0,
-  "time_show_ads": 6000,//khoảng thời gian giữa 2 ads inter được phép show
-  "time_reload_native": 20000//time reload native màn Main
+  "time_show_ads": 6000, //khoảng thời gian giữa 2 ads inter được phép show
+  "time_reload_native": 20000 //time reload native màn Main
 }
