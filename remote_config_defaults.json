@@ -40,5 +40,6 @@
   "inter_layout_status": 0,
   "install_status": 0,
   "time_show_ads": 30000,
-  "time_reload_native": 20000
+  "time_reload_native": 20000,
+  "is_show_ads": 3
 }
