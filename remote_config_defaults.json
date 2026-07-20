@@ -28,7 +28,7 @@
   "native_change_icon_status": 0,
   "native_full_lockscreen_status": 0,
   "inter_change_icon_status": 0,
-  "inter_permission_status": 0,
+  "inter_permission_status": 1,
   "native_uninstall_status": 0,
   "inter_uninstall_status": 0,
   "native_full_iap_status": 0,
