@@ -1,6 +1,6 @@
 {
   "native_splash_status": 0,
-  "inter_t_splash_status": 1,
+  "inter_t_splash_status": 0,
   "time_show_native": 4000,
   "open_resume_status": 0,
   "native_language_status": 1,
@@ -28,7 +28,7 @@
   "native_change_icon_status": 0,
   "native_full_lockscreen_status": 0,
   "inter_change_icon_status": 0,
-  "inter_permission_status": 1,
+  "inter_permission_status": 0,
   "native_uninstall_status": 0,
   "inter_uninstall_status": 0,
   "native_full_iap_status": 0,
